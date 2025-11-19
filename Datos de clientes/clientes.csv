@@ -1,0 +1,11 @@
+ID_Venta,Fecha,Cliente,Producto,Cantidad,Precio_Unitario,Total
+1,10/1/2024,Juan Pérez,Libro A,1,10.00,10.00
+2,11/1/2024,María López,Libro B,2,12.50,25.00
+3,12/1/2024,Carlos Gómez,Libro C,1,8.00,8.00
+4,13/1/2024,Ana Torres,Libro A,3,10.00,30.00
+5,14/1/2024,Luis Sánchez,Libro D,1,15.00,15.00
+6,15/1/2024,Sofía Castro,Libro E,2,9.00,18.00
+7,16/1/2024,Miguel Díaz,Libro B,1,12.50,12.50
+8,17/1/2024,Laura Herrera,Libro A,4,10.00,40.00
+9,18/1/2024,Pedro Molina,Libro C,2,8.00,16.00
+10,19/1/2024,Cliente Especial,Libro Especial,1,20.00,20.00
