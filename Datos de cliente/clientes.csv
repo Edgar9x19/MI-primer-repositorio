@@ -1,11 +1,11 @@
-ID_Cliente	Nombre_Completo	Email	Telefono	Direccion	Fecha Registro
-1	Juan Pérez	cliente1@correo.com	099-000-0001	Calle Principal 1, Sector Norte	01/01/2024
-2	María López	cliente2@correo.com	099-000-0002	Calle Principal 2, Sector Norte	02/01/2024
-3	Carlos Gómez	cliente3@correo.com	099-000-0003	Calle Principal 3, Sector Norte	03/01/2024
-4	Ana Torres	cliente4@correo.com	099-000-0004	Calle Principal 4, Sector Norte	04/01/2024
-5	Luis Sánchez	cliente5@correo.com	099-000-0005	Calle Principal 5, Sector Norte	05/01/2024
-6	Sofía Castro	cliente6@correo.com	099-000-0006	Calle Principal 6, Sector Norte	06/01/2024
-7	Miguel Díaz	cliente7@correo.com	099-000-0007	Calle Principal 7, Sector Norte	07/01/2024
-8	Laura Herrera	cliente8@correo.com	099-000-0008	Calle Principal 8, Sector Norte	08/01/2024
-9	Pedro Molina	cliente9@correo.com	099-000-0009	Calle Principal 9, Sector Norte	09/01/2024
-10	Cliente Especial	cliente10@correo.com	099-000-0010	Calle Principal 10, Sector Norte	10/01/2024
+ID_Cliente,Nombre_Completo,Email,Telefono,Direccion,Fecha Registro
+1	Juan Pérez,cliente1@correo.com,099-000-0001,Calle Principal 1, Sector Norte,01/01/2024
+2	María López,cliente2@correo.com,099-000-0002,Calle Principal 2,Sector Norte	,02/01/2024
+3	Carlos Gómez,cliente3@correo.com,099-000-0003,Calle Principal 3, Sector Norte	,03/01/2024
+4	Ana Torres,cliente4@correo.com,099-000-0004	Calle Principal 4,Sector Norte	,04/01/2024
+5	Luis Sánchez,cliente5@correo.com,099-000-0005	,Calle Principal 5, Sector Norte	,05/01/2024
+6	Sofía Castro,cliente6@correo.com	099-000-0006	,Calle Principal 6, Sector Norte	,06/01/2024
+7	Miguel Díaz,cliente7@correo.com	099-000-0007	,Calle Principal 7, Sector Norte	,07/01/2024
+8	Laura Herrera,cliente8@correo.com	099-000-0008	,Calle Principal 8, Sector Norte	,08/01/2024
+9	Pedro Molina,cliente9@correo.com	099-000-0009	,Calle Principal 9, Sector Norte	,09/01/2024
+10	Cliente Especial,cliente10@correo.com	099-000-0010,	Calle Principal 10, Sector Norte	,10/01/2024
